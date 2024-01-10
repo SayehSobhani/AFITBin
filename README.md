@@ -1,6 +1,6 @@
 
 
-### AFITBin
+### AFITBin:  A metagenomic contig binning method using aggregate $l$-mer frequency based on initial and terminal nucleotides
 
 Description: Briefly describe the project and its primary goals.
 
