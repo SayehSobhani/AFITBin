@@ -4,6 +4,10 @@
 
 Description: Briefly describe the project and its primary goals.
 
+<p align="center">
+<img src="https://drive.google.com/file/d/1syu4R5mahx8lmVms1tyEo4Id4eHl42dt/view?usp=drive_link" width="550"/>
+</p>
+
 #### Files Included:
 
 1. **AFITBIN.py**: Contains code related to command-line argument parsing using argparse.
